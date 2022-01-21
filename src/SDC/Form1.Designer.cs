@@ -1,5 +1,5 @@
 ﻿
-namespace ApAppen
+namespace SDC
 {
     partial class Form1
     {
